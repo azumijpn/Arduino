@@ -1,0 +1,686 @@
+<TaskerData sr="" dvi="1" tv="4.9u4m">
+	<Profile sr="prof60" ve="2">
+		<cdate>1487459799235</cdate>
+		<clp>true</clp>
+		<edate>1487776816308</edate>
+		<id>60</id>
+		<mid0>56</mid0>
+		<Event sr="con0" ve="2">
+			<code>41628340</code>
+			<pri>0</pri>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<Contains>false</Contains>
+					<Contains-type>java.lang.Boolean</Contains-type>
+					<LastCommandIdInvert>false</LastCommandIdInvert>
+					<LastCommandIdInvert-type>java.lang.Boolean</LastCommandIdInvert-type>
+					<LastCommandIdRegex>false</LastCommandIdRegex>
+					<LastCommandIdRegex-type>java.lang.Boolean</LastCommandIdRegex-type>
+					<NotCancelSearchGoogleNow>false</NotCancelSearchGoogleNow>
+					<NotCancelSearchGoogleNow-type>java.lang.Boolean</NotCancelSearchGoogleNow-type>
+					<NotOnContinuous>false</NotOnContinuous>
+					<NotOnContinuous-type>java.lang.Boolean</NotOnContinuous-type>
+					<NotOnNormal>false</NotOnNormal>
+					<NotOnNormal-type>java.lang.Boolean</NotOnNormal-type>
+					<Precision>&lt;null&gt;</Precision>
+					<Precision-type>java.lang.String</Precision-type>
+					<ProfileName>&lt;null&gt;</ProfileName>
+					<ProfileName-type>java.lang.String</ProfileName-type>
+					<Responses>&lt;null&gt;</Responses>
+					<Responses-type>java.lang.String</Responses-type>
+					<Source>continuous</Source>
+					<Source-type>java.lang.String</Source-type>
+					<Substitutions>&lt;null&gt;</Substitutions>
+					<Substitutions-type>java.lang.String</Substitutions-type>
+					<TriggerWord>&lt;null&gt;</TriggerWord>
+					<TriggerWord-type>java.lang.String</TriggerWord-type>
+					<TriggerWordExact>false</TriggerWordExact>
+					<TriggerWordExact-type>java.lang.Boolean</TriggerWordExact-type>
+					<TriggerWordRegex>false</TriggerWordRegex>
+					<TriggerWordRegex-type>java.lang.Boolean</TriggerWordRegex-type>
+					<VariableNames>&lt;null&gt;</VariableNames>
+					<VariableNames-type>java.lang.String</VariableNames-type>
+					<VariableValues>&lt;null&gt;</VariableValues>
+					<VariableValues-type>java.lang.String</VariableValues-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Easy Commands: pink,salmon,crimson,red,tomato,coral,orange,yellow,moccasin,khaki,gold,cornsilk,bisque,wheat,tan,peru,chocolate,sienna,brown,maroon,olive,lime,chartreuse,green,aqua,cyan,aquamarine,turquoise,teal,blue,navy,lavender,thistle,plum,violet,orchid,fuchsia,magenta,purple,indigo,white,snow,azure,seashell,beige,ivory,linen
+</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<config_easy_commands>Pink,Salmon,Crimson,Red,Tomato,Coral,Orange,Yellow,Moccasin,Khaki,Gold,Cornsilk,Bisque,Wheat,Tan,Peru,Chocolate,Sienna,Brown,Maroon,Olive,Lime,Chartreuse,Green,Aqua,Cyan,Aquamarine,Turquoise,Teal,Blue,Navy,Lavender,Thistle,Plum,Violet,Orchid,Fuchsia,Magenta,Purple,Indigo,White,Snow,Azure,Seashell,Beige,Ivory,Linen
+</config_easy_commands>
+					<config_easy_commands-type>java.lang.String</config_easy_commands-type>
+					<configcommand>&lt;null&gt;</configcommand>
+					<configcommand-type>java.lang.String</configcommand-type>
+					<configcommandid>&lt;null&gt;</configcommandid>
+					<configcommandid-type>java.lang.String</configcommandid-type>
+					<configcommandinvert>false</configcommandinvert>
+					<configcommandinvert-type>java.lang.Boolean</configcommandinvert-type>
+					<configexactsub>false</configexactsub>
+					<configexactsub-type>java.lang.Boolean</configexactsub-type>
+					<configlastcommand>&lt;null&gt;</configlastcommand>
+					<configlastcommand-type>java.lang.String</configlastcommand-type>
+					<configregexsub>false</configregexsub>
+					<configregexsub-type>java.lang.Boolean</configregexsub-type>
+					<net.dinglisch.android.tasker.EXTRA_NSR_DEPRECATED>true</net.dinglisch.android.tasker.EXTRA_NSR_DEPRECATED>
+					<net.dinglisch.android.tasker.EXTRA_NSR_DEPRECATED-type>java.lang.Boolean</net.dinglisch.android.tasker.EXTRA_NSR_DEPRECATED-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%avcomm
+First recognized Command
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%avcommnofilter
+First Command Without Filter
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;%avcomms()
+All recognized commands
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;%avcommsnofilter()
+All recognized commands without filter
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES4&gt;%avsource
+Source of the Voice Command
+Can be normal, continuous, test or googlenow&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES4&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES5&gt;%avword()
+Word Array
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES5&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>Source config_easy_commands plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>8b732587-fa3a-448f-92e2-553ca42db64b</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autovoice.intent.IntentReceiveVoiceEvent</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autovoice</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autovoice.activity.ActivityConfigReceiveVoiceEvent</Str>
+		</Event>
+	</Profile>
+	<Profile sr="prof62" ve="2">
+		<cdate>1487501407111</cdate>
+		<clp>true</clp>
+		<edate>1487511376519</edate>
+		<id>62</id>
+		<mid0>63</mid0>
+		<Event sr="con0" ve="2">
+			<code>714870134</code>
+			<pri>0</pri>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>@TheNeoDress</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<commparamsvar>&lt;null&gt;</commparamsvar>
+					<commparamsvar-type>java.lang.String</commparamsvar-type>
+					<message>@TheNeoDress</message>
+					<message-type>java.lang.String</message-type>
+					<messagecaseinsensitive>false</messagecaseinsensitive>
+					<messagecaseinsensitive-type>java.lang.Boolean</messagecaseinsensitive-type>
+					<messageexact>false</messageexact>
+					<messageexact-type>java.lang.Boolean</messageexact-type>
+					<messageregex>false</messageregex>
+					<messageregex-type>java.lang.Boolean</messageregex-type>
+					<messagevar>message</messagevar>
+					<messagevar-type>java.lang.String</messagevar-type>
+					<net.dinglisch.android.tasker.EXTRA_NSR_DEPRECATED>true</net.dinglisch.android.tasker.EXTRA_NSR_DEPRECATED>
+					<net.dinglisch.android.tasker.EXTRA_NSR_DEPRECATED-type>java.lang.Boolean</net.dinglisch.android.tasker.EXTRA_NSR_DEPRECATED-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>messagevar tempvar commparamsvar message target plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>16dea7fc-9c85-4198-b1de-ddb7840b1e19</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoremote.IntentRemoteEvent</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+					<tempvar>&lt;null&gt;</tempvar>
+					<tempvar-type>java.lang.String</tempvar-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoremote.lite</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autoremote.activity.ActivityConfigConditionTaskerEvent</Str>
+		</Event>
+	</Profile>
+	<Project sr="proj0" ve="2">
+		<cdate>1487458137181</cdate>
+		<name>NeoDress</name>
+		<pids>60,62</pids>
+		<tids>59,57,64,63,61,116,56</tids>
+	</Project>
+	<Task sr="task116">
+		<cdate>1487542857085</cdate>
+		<edate>1487776636683</edate>
+		<id>116</id>
+		<nme>Picker</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>940160580</code>
+			<label>Load Colour Picked for Manual Change</label>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<IntentAction>OPEN_INTENTS_PICK_COLOR</IntentAction>
+					<IntentAction-type>java.lang.String</IntentAction-type>
+					<IntentApp>OpenIntents</IntentApp>
+					<IntentApp-type>java.lang.String</IntentApp-type>
+					<IntentData>&lt;null&gt;</IntentData>
+					<IntentData-type>java.lang.String</IntentData-type>
+					<IntentMimeType>&lt;null&gt;</IntentMimeType>
+					<IntentMimeType-type>java.lang.String</IntentMimeType-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Package: org.openintents.colorpicker
+Class: org.openintents.colorpicker.ColorPickerActivity
+App: OpenIntents
+Action: Pick Color</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<configclass>org.openintents.colorpicker.ColorPickerActivity</configclass>
+					<configclass-type>java.lang.String</configclass-type>
+					<configpackage>org.openintents.colorpicker</configpackage>
+					<configpackage-type>java.lang.String</configpackage-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%ascolor
+The picked color
+The picked color&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%asdata
+Data returned from the called intent
+Data returned from the called intent&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>IntentApp configpackage configclass IntentAction plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>3f8c408e-25f5-4033-ba2a-077134463cb7</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoshare.intent.IntentShare</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoshare</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autoshare.activity.ActivityConfigShare</Str>
+			<Int sr="arg3" val="878"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%ascolor</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>596</code>
+			<Str sr="arg0" ve="3">%ascolor</Str>
+			<Int sr="arg1" val="23"/>
+			<Str sr="arg2" ve="3"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>590</code>
+			<label>Filter out the unnecessary stuff from the conversion</label>
+			<Str sr="arg0" ve="3">%ascolor</Str>
+			<Str sr="arg1" ve="3">ffffffffff</Str>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%ascolor2</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>130</code>
+			<Str sr="arg0" ve="3">UpdateArduino</Str>
+			<Int sr="arg1">
+				<var>%priority</var>
+			</Int>
+			<Str sr="arg2" ve="3">%ascolor2</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="0"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hd_device_access_location_searching</nme>
+		</Img>
+	</Task>
+	<Task sr="task56">
+		<cdate>1487082317384</cdate>
+		<edate>1487776816308</edate>
+		<id>56</id>
+		<nme>Auto Voice Colour</nme>
+		<pri>6</pri>
+		<Action sr="act0" ve="7">
+			<code>300</code>
+			<label>Sends recognised WebColour to Parser</label>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>547</code>
+			<label>For Testing only -DISABLE</label>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%avcomm</Str>
+			<Str sr="arg1" ve="3">green</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>61</code>
+			<Int sr="arg0" val="200"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">Recognised %avcomm</Str>
+			<Int sr="arg1" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%avcomm</lhs>
+					<op>12</op>
+					<rhs></rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>130</code>
+			<Str sr="arg0" ve="3">WebToRGB</Str>
+			<Int sr="arg1">
+				<var>%priority</var>
+			</Int>
+			<Str sr="arg2" ve="3">%avcomm</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%avcomm</lhs>
+					<op>12</op>
+					<rhs></rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+	</Task>
+	<Task sr="task57">
+		<cdate>1487153496209</cdate>
+		<edate>1487773787697</edate>
+		<id>57</id>
+		<nme>UpdateArduino</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>548</code>
+			<Str sr="arg0" ve="3">[A:%par1]</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>2109925577</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Connect: true
+Arduino: HC-06</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>parameters plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<parameters>{"connect":true,"device":"98\u003d\u003d\u003dD3\u003d\u003d\u003d31\u003d\u003d\u003dFC\u003d\u003d\u003d1D\u003d\u003d\u003d99"}</parameters>
+					<parameters-type>java.lang.String</parameters-type>
+					<plugininstanceid>461753e5-179d-40f5-a572-f7431c6cf53e</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoarduino.intent.IntentConnection</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoarduino</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autoarduino.activity.ActivityConfigConnection</Str>
+			<Int sr="arg3" val="60"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>208431529</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Direct Command: [A:%par1]</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>parameters plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<parameters>{"analogPins":{"isLite":false},"digitalPins":{"isLite":false},"directCommand":"[A:#§£§£§@VARIABLE#§£§£§@%par1#§£§£§@VARIABLE#§£§£§@]","rgbLed":{"isLite":false},"stepper":{"isLite":false}}</parameters>
+					<parameters-type>java.lang.String</parameters-type>
+					<plugininstanceid>070c0664-fe69-4390-a67b-04a02ce642ee</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoarduino.intent.IntentPins</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoarduino</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autoarduino.activity.ActivityConfigPins</Str>
+			<Int sr="arg3" val="60"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>410</code>
+			<Str sr="arg0" ve="3">Neodress/Updates.txt</Str>
+			<Str sr="arg1" ve="3">%TIME [A:%par1]</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="1"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>2109925577</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Connect: false</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>parameters plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<parameters>{"connect":false}</parameters>
+					<parameters-type>java.lang.String</parameters-type>
+					<plugininstanceid>774422aa-36c0-4c5d-8d06-587ae5e25e2e</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoarduino.intent.IntentConnection</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoarduino</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autoarduino.activity.ActivityConfigConnection</Str>
+			<Int sr="arg3" val="60"/>
+		</Action>
+	</Task>
+	<Task sr="task59">
+		<cdate>1487459517018</cdate>
+		<edate>1487776628196</edate>
+		<id>59</id>
+		<nme>WebToRGB</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>1508929357</code>
+			<label>Parse WebColours to RGB HEX</label>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<ArraysFilter>&lt;null&gt;</ArraysFilter>
+					<ArraysFilter-type>java.lang.String</ArraysFilter-type>
+					<ArraysItemSeparator>,</ArraysItemSeparator>
+					<ArraysItemSeparator-type>java.lang.String</ArraysItemSeparator-type>
+					<ArraysUnique>false</ArraysUnique>
+					<ArraysUnique-type>java.lang.Boolean</ArraysUnique-type>
+					<InputArraysMan>/storage/emulated/0/Neodress/WebColoursHex.csv</InputArraysMan>
+					<InputArraysMan-type>java.lang.String</InputArraysMan-type>
+					<InputIsFile>true</InputIsFile>
+					<InputIsFile-type>java.lang.Boolean</InputIsFile-type>
+					<JoinMergedArrays>&lt;null&gt;</JoinMergedArrays>
+					<JoinMergedArrays-type>java.lang.String</JoinMergedArrays-type>
+					<JoinOutputArray>&lt;null&gt;</JoinOutputArray>
+					<JoinOutputArray-type>java.lang.String</JoinOutputArray-type>
+					<MatchesCaseInsensitive>false</MatchesCaseInsensitive>
+					<MatchesCaseInsensitive-type>java.lang.Boolean</MatchesCaseInsensitive-type>
+					<MatchesContainsAll>false</MatchesContainsAll>
+					<MatchesContainsAll-type>java.lang.Boolean</MatchesContainsAll-type>
+					<MatchesExact>false</MatchesExact>
+					<MatchesExact-type>java.lang.Boolean</MatchesExact-type>
+					<MatchesRegex>false</MatchesRegex>
+					<MatchesRegex-type>java.lang.Boolean</MatchesRegex-type>
+					<MergeArrays>false</MergeArrays>
+					<MergeArrays-type>java.lang.Boolean</MergeArrays-type>
+					<MergeFormat>&lt;null&gt;</MergeFormat>
+					<MergeFormat-type>java.lang.String</MergeFormat-type>
+					<MergedArrayJoiner>&lt;null&gt;</MergedArrayJoiner>
+					<MergedArrayJoiner-type>java.lang.String</MergedArrayJoiner-type>
+					<MergedArrayName>atmergedarray</MergedArrayName>
+					<MergedArrayName-type>java.lang.String</MergedArrayName-type>
+					<OnlyNewClearForAll>false</OnlyNewClearForAll>
+					<OnlyNewClearForAll-type>java.lang.Boolean</OnlyNewClearForAll-type>
+					<OnlyNewClearForName>false</OnlyNewClearForName>
+					<OnlyNewClearForName-type>java.lang.Boolean</OnlyNewClearForName-type>
+					<OnlyNewName>&lt;null&gt;</OnlyNewName>
+					<OnlyNewName-type>java.lang.String</OnlyNewName-type>
+					<OutputSeparator>,</OutputSeparator>
+					<OutputSeparator-type>java.lang.String</OutputSeparator-type>
+					<PopPosition>&lt;null&gt;</PopPosition>
+					<PopPosition-type>java.lang.String</PopPosition-type>
+					<Push>&lt;null&gt;</Push>
+					<Push-type>java.lang.String</Push-type>
+					<PushPosition>&lt;null&gt;</PushPosition>
+					<PushPosition-type>java.lang.String</PushPosition-type>
+					<Randomize>false</Randomize>
+					<Randomize-type>java.lang.Boolean</Randomize-type>
+					<Separator>
+</Separator>
+					<Separator-type>java.lang.String</Separator-type>
+					<SortArraysInvertMan>false</SortArraysInvertMan>
+					<SortArraysInvertMan-type>java.lang.Boolean</SortArraysInvertMan-type>
+					<SortArraysMan>false</SortArraysMan>
+					<SortArraysMan-type>java.lang.Boolean</SortArraysMan-type>
+					<SortArraysOutputNamesMan>WebColour,RGBValue</SortArraysOutputNamesMan>
+					<SortArraysOutputNamesMan-type>java.lang.String</SortArraysOutputNamesMan-type>
+					<VerticalMode>true</VerticalMode>
+					<VerticalMode-type>java.lang.Boolean</VerticalMode-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Input Arrays: /storage/emulated/0/Neodress/WebColoursHex.csv
+Vertical Mode: true
+Separator: 
+
+Item Separator: ,
+Input Is File: true
+Names: WebColour,RGBValue
+Output Variables Separator: ,
+Merged Array Name: atmergedarray</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%rgbvalue()
+rgbvalue
+rgbvalue&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%webcolour()
+webcolour
+webcolour&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>InputArraysMan SortArraysOutputNamesMan OutputSeparator Separator MergedArrayName ArraysItemSeparator plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>fbb422c9-214a-49a6-a636-1384adcb4370</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autotools.intent.IntentSortArrays</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autotools</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autotools.activity.ActivityConfigSortArrays</Str>
+			<Int sr="arg3" val="60"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>547</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%par1</Str>
+			<Str sr="arg1" ve="3">blue</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%rgbarrayindex</Str>
+			<Str sr="arg1" ve="3">%webcolour(#?%par1)</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%rgbhexvalue</Str>
+			<Str sr="arg1" ve="3">%rgbvalue(%rgbarrayindex)</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%RGBvalue %rgbvalue(%webcolour(#?%par1))</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>130</code>
+			<Str sr="arg0" ve="3">UpdateArduino</Str>
+			<Int sr="arg1">
+				<var>%priority</var>
+			</Int>
+			<Str sr="arg2" ve="3">%rgbhexvalue</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%par1</lhs>
+					<op>12</op>
+					<rhs></rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+	</Task>
+	<Task sr="task61">
+		<cdate>1487459906808</cdate>
+		<edate>1487776577114</edate>
+		<id>61</id>
+		<nme>ListenMode</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>269503190</code>
+			<label>Activate Continuous Listening Mode</label>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<LanguageCode>&lt;null&gt;</LanguageCode>
+					<LanguageCode-type>java.lang.String</LanguageCode-type>
+					<LedColor>&lt;null&gt;</LedColor>
+					<LedColor-type>java.lang.String</LedColor-type>
+					<LedOff>&lt;null&gt;</LedOff>
+					<LedOff-type>java.lang.String</LedOff-type>
+					<LedOn>&lt;null&gt;</LedOn>
+					<LedOn-type>java.lang.String</LedOn-type>
+					<NotificationIcon>&lt;null&gt;</NotificationIcon>
+					<NotificationIcon-type>java.lang.String</NotificationIcon-type>
+					<NotificationText>&lt;null&gt;</NotificationText>
+					<NotificationText-type>java.lang.String</NotificationText-type>
+					<NotificationTitle>&lt;null&gt;</NotificationTitle>
+					<NotificationTitle-type>java.lang.String</NotificationTitle-type>
+					<PersistentNotification>true</PersistentNotification>
+					<PersistentNotification-type>java.lang.Boolean</PersistentNotification-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>
+Starting continuous voice recognition without headset
+Persistent Notification: true</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<continuous>true</continuous>
+					<continuous-type>java.lang.Boolean</continuous-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>bb1c4619-472f-4b31-a490-fbc499b2d461</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autovoice.intent.IntentGetVoiceContinuous</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autovoice</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autovoice.activity.ActivityConfigGetVoiceContinuous</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hd_aaa_ext_rocket</nme>
+		</Img>
+	</Task>
+	<Task sr="task63">
+		<cdate>1487503790158</cdate>
+		<edate>1487523439817</edate>
+		<id>63</id>
+		<nme>Autoremote Colour</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>590</code>
+			<Str sr="arg0" ve="3">%message</Str>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>548</code>
+			<Str sr="arg0" ve="3">%message2</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>130</code>
+			<Str sr="arg0" ve="3">WebToRGB</Str>
+			<Int sr="arg1">
+				<var>%priority</var>
+			</Int>
+			<Str sr="arg2" ve="3">%message2</Str>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task64">
+		<cdate>1487527118245</cdate>
+		<edate>1487527164547</edate>
+		<id>64</id>
+		<nme>WebServer</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>926737387</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<LedColor>&lt;null&gt;</LedColor>
+					<LedColor-type>java.lang.String</LedColor-type>
+					<LedOff>&lt;null&gt;</LedOff>
+					<LedOff-type>java.lang.String</LedOff-type>
+					<LedOn>&lt;null&gt;</LedOn>
+					<LedOn-type>java.lang.String</LedOn-type>
+					<NotificationIcon>&lt;null&gt;</NotificationIcon>
+					<NotificationIcon-type>java.lang.String</NotificationIcon-type>
+					<NotificationText>&lt;null&gt;</NotificationText>
+					<NotificationText-type>java.lang.String</NotificationText-type>
+					<NotificationTitle>Webservice running</NotificationTitle>
+					<NotificationTitle-type>java.lang.String</NotificationTitle-type>
+					<PersistentNotification>true</PersistentNotification>
+					<PersistentNotification-type>java.lang.Boolean</PersistentNotification-type>
+					<UseWakelock>false</UseWakelock>
+					<UseWakelock-type>java.lang.Boolean</UseWakelock-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>
+Starting Wifi Service
+Persistent Notification: true
+Notification Title: Webservice running</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<continuous>true</continuous>
+					<continuous-type>java.lang.Boolean</continuous-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>FieldsToGet NotificationTitle NotificationText NotificationIcon LedColor LedOn LedOff plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>58740cf6-28ff-4a16-a636-003ca969a018</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoremote.IntentWifiService</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoremote.lite</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autoremote.activity.ActivityConfigWifiService</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>
